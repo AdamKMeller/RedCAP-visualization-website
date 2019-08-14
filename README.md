@@ -7,4 +7,4 @@ Once collected two drop down boxes will show up allowing you to do simple data v
 
 This is a prototype, please be patient and feel free to upload new version of the project or request new features through comments.
 
-Created at Cincinnati Children's Hospital under direction of PhD Michael Wagner.
+Created at Cincinnati Children's Hospital under direction of Dr. Michael Wagner.
